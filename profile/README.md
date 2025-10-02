@@ -2,11 +2,11 @@
 Welcome to the UHasselt-DSI-Aroma-Lab Organisation on Github.
 
 # Purpose
----
+
 This Github organisation allows us to group all GIT repositories that are the result of research perfomed at the "Aroma-Lab" research group of UHasselt's Data Science Institute. It is normal that researchers join (e.g., at the start of the PhD) and leave the group (at the end :). We want to make sure that the artifacts produced during the research remain accessible after leaving.
 
 # Guidelines and conventions
----
+
 Please use the following naming conventions when creating a repo. 
 
 - A repository that hosts a PhD thesis text should be named `phd-thesis-\<lastname>-\<firstname>`
